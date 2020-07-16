@@ -1,3 +1,4 @@
+  
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,7 +18,3 @@
   <p><a href="/exercise7">Regresar al formulario</a></p>
 </body>
 </html>
-
-
-
-

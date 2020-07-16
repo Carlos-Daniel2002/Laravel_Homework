@@ -12,7 +12,7 @@
     <form action="{{ route('result7') }}" method="POST">
         @csrf
         <label for="text">Escribe un numero</label><br>
-        <input type="number" name="number">
+        <input type="number" name="numberp">
         <input type="submit" value="Enviar">
     </form>
 </body>
